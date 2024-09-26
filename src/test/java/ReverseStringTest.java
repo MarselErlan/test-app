@@ -19,6 +19,7 @@ public class ReverseStringTest {
     public void reverseHappyPath(){
         Assert.assertEquals("elppa", ReverseString.reverseString("apple"));
         System.out.println("ReverseTestHappyPath Passed 1");
+        System.out.println("ReverseTestHappyPath Passed 2");
     }
 
 
